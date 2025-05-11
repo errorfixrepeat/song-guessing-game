@@ -10,15 +10,24 @@ export default function SongGuessGame() {
       artist: "The Strokes",
       fullAnswer: "Last Nite by The Strokes",
       clue: "Closing already? It only opened yesterday.",
-      fact: "Critics noted this song's similarity to Tom Petty and the Heartbreakers' American Girl.",
+      fact: "This song has been called a rip-off of Tom Petty and the Heartbreakers' American Girl.",
       audioUrl: "https://files.catbox.moe/lj72u9.mp3",
       variations: ["last night"]
+    },
+    {
+      title: "Call Me",
+      artist: "Blondie",
+      fullAnswer: "Call Me by Blondie",
+      clue: "The hotline is open 24/7.",
+      fact: "Originally written as the theme song for the 1980 film American Gigolo.",
+      audioUrl: "https://files.catbox.moe/3tl3ih.mp3",
+      variations: []
     },
     {
       title: "Stick Season",
       artist: "Noah Kahan",
       fullAnswer: "Stick Season by Noah Kahan",
-      clue: "Coat the surface with salt and pepper",
+      clue: "Just add salt and pepper.",
       fact: "The song refers to the period between autumn foliage and the first snow in New England",
       audioUrl: "https://files.catbox.moe/im70kr.mp3",
       variations: ["Noah Kahan Stick Season"]
