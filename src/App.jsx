@@ -33,6 +33,15 @@ export default function SongGuessGame() {
       variations: ["Noah Kahan Stick Season"]
     },
     {
+      title: "Survivor",
+      artist: "Destiny's Child",
+      fullAnswer: "Survivor by Destiny's Child",
+      clue: "Not gonna stop, like contestants on a reality show.",
+      fact: "This song spent seven consecutive weeks at number two on the Billboard Hot 100 chart.",
+      audioUrl: "https://files.catbox.moe/zsznio.mp3",
+      variations: ["destinys child survivor"]
+    },
+    {
       title: "Espresso",
       artist: "Sabrina Carpenter",
       fullAnswer: "Espresso by Sabrina Carpenter",
