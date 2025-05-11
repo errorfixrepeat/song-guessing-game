@@ -62,8 +62,8 @@ export default function SongGuessGame() {
 
     wavesurfer.current = WaveSurfer.create({
       container: waveformRef.current,
-      waveColor: "#3b82f6",
-      progressColor: "#14b8a6",
+      waveColor: "#14b8a6",
+      progressColor: "#ec4899",
       barWidth: 2,
       height: 80,
       responsive: true,
