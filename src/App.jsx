@@ -15,6 +15,15 @@ export default function SongGuessGame() {
       variations: ["last night"]
     },
     {
+      title: "Blue Lights",
+      artist: "Jorja Smith",
+      fullAnswer: "Blue Lights by Jorja Smith",
+      clue: "The flashing kind, often seen in rearview mirrors.",
+      fact: "The song samples Dizzee Rascal's 2007 hit 'Sirens'.",
+      audioUrl: "https://files.catbox.moe/7owk06.mp3",
+      variations: ["jorja smith blue lights"]
+    },
+    {
       title: "Call Me",
       artist: "Blondie",
       fullAnswer: "Call Me by Blondie",
